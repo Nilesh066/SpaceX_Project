@@ -1,3 +1,9 @@
+### Details about the webpage.
+
+    This webpage has the details of all the projects which spaceX organization has made so far.
+    This basically gives user details about the name, id, year, launching status, landing status of projects.
+    User can also filter data manually by using different filters provided.
+
 ### Prerequisites
     1. npm packages.
     2. internet connection.
