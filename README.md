@@ -29,6 +29,6 @@
    
  #### To understand project workflow.
      
-    ## 1. alert and console tests are included.
-    ## 2. Screenshots present inside the screenshot folder for references.
-    ## 3. Comments are included within the code for better explaination.
+    ##  1. alert and console functions are included for understanding workflow.
+    ##  2. Screenshots present inside the screenshot folder for references.
+    ##  3. Comments are included within the code which better explains the code functions.
